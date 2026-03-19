@@ -30,7 +30,8 @@ A quantidade de números pares é armazenada no endereço:
 
 ## Integrantes - Grupo 01
 
-Dávila Peixoto
-João Carlos Vasconcelos
-João Pedro Pessôa
-Walter Maia
+- Dávila Peixoto
+- João Carlos Vasconcelos
+- João Pedro Pessôa
+- Walter Maia
+- Breno Pereira
